@@ -1,0 +1,11 @@
+node_modules/
+build/
+client/data/
+kovan_pass.txt
+ropsten_pass.txt
+PRIVATE_README.md
+
+*.log*
+*sublime*
+daostack/node_modules/
+frontend/node_moodules/

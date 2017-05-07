@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "stylelint-order"
+  ],
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "order/declaration-block-order": [
+        "custom-properties",
+        "declarations"
+    ],
+    "order/declaration-block-properties-alphabetical-order": true,
+  },
+}

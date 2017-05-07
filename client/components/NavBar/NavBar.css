@@ -1,0 +1,10 @@
+:global .green { color: green; }
+:global .activeAddress {
+	width: 150px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+:global .navbar-logo {
+	height: 30px;
+}

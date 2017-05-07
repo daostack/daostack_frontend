@@ -1,0 +1,8 @@
+:global html {
+  min-height: 100%;
+  position: relative;
+}
+
+:global body {
+  margin-bottom: 90px;
+}

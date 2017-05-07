@@ -1,0 +1,56 @@
+{
+  "extends": ["standard", "standard-react"],
+  "parser": "babel-eslint",
+  "globals": {
+    "web3": true
+  },
+  "plugins": [
+    "react",
+    "import"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "react/sort-comp": [2,
+      {
+        "order": [
+          "static-methods",
+          "lifecycle",
+          "rendering",
+          "everything-else"
+        ],
+        "groups": {
+          "rendering": [
+            "render",
+            "/^render.+$/"
+          ]
+        }
+      }
+    ],
+    "react/jsx-no-bind": 0,
+    "react/jsx-curly-spacing": [2, "always"],
+    "react/no-multi-comp": 2,
+    "import/first": 2,
+    "import/newline-after-import": [2, { "count": 1 }],
+    "import/order": [2, {"groups": 
+      ["builtin", "external", "index", "sibling", "parent", "internal"]
+    }],
+    "jsx-quotes": [2, "prefer-single"],
+    "no-return-assign": 0,
+    "generator-star-spacing": 0,
+    "object-curly-spacing": [2, "always"],
+    "arrow-parens": [2, "as-needed"],
+    "no-debugger": 2,
+    "no-console": 2,
+    "no-alert": 2,
+    "comma-dangle": [2, "always-multiline"],
+    "prefer-const": ["error", {
+      "destructuring": "all",
+      "ignoreReadBeforeAssign": false
+    }],
+    "no-var": 2
+  }
+}

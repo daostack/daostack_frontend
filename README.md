@@ -72,6 +72,7 @@ ROPSTEN_DEPLOYEMENTS
 * [2017_04_08__22_33_03](https://ipfs.io/ipfs/QmSZVLEtnpNWkSxcc2Toddd2kKiZnPe3JC2ExDYcQRHNT4)
 
 KOVAN_DEPLOYEMENTS
+* [2017_05_29__11_39_03](https://ipfs.io/ipfs/QmYSMEyuADx2cE1Mmv1iF4TiqyDcGrvh59cMgGaaAfQ2wp)
 * [2017_04_30__22_42_40](https://ipfs.io/ipfs/QmWbWX8FSaxZvdiWbDXioJFg8shVLSTK1KNgmy787BqwvU)
 * [2017_04_21__16_02_06](https://ipfs.io/ipfs/QmbJbNiYBDQcVSk5rDxCHmrFtBAwTNQFi3PmqJpGUX46Rd)
 * [2017_04_21__15_50_35](https://ipfs.io/ipfs/QmVhyKWrpVfLnGbFh6dSNEccgHAe23sm6BWHjjcFAF8k7s)
